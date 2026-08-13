@@ -6,8 +6,8 @@ by how *your own trust network* — direct connections, and friends-of-friends
 up to three hops out — has actually rated them. The further someone is from
 you in your trust graph, the less their opinion counts, automatically.
 
-**Live demo:** `<add your Render URL here>`
-**Screen recording:** `<add your recording link here>`
+**Live demo:** `<https://circle-app-4qhn.onrender.com/>`
+
 
 ---
 
